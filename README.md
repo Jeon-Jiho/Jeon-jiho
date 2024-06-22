@@ -1,7 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hello,%20World!&fontSize=90)
 ## Hi there 👋
 
+🌱 I’m currently learning Linguistics
 
+📫 How to reach me: yoy3108@naver.com
 
 <!--
 **Jeon-Jiho/Jeon-jiho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
